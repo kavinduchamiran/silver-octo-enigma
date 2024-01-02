@@ -107,13 +107,19 @@ I will include some links I collected over the course. I recommend you read them
 9. [What Are Applicant Tracking Systems?](https://www.indeed.com/career-advice/career-development/what-are-applicant-tracking-systems)
 10. [Doer vs. Achiever Resume](https://www.indeed.com/career-advice/resumes-cover-letters/doer-vs-achiever-resume)
 
-## LinkedIn
+## LinkedIn optimization
 TBD
 
-## Skills
+## Skills development
 TBD
 
-## Books
+## Books to improve your knowledge
+
+Some books I read to improve my DSA skills, to get some idea about how large scale systems work, and to learn the best practices that make a code great. You can expect a coding interview that involves data structures, algorithms, and system design, in almost all the companies.
+
+They would rarely ask you to explain OOP concepts, if you have been in the industry for few years. Now what they are looking for is how good of a solution you can provide using whichever the concepts you have learned at your college or previous employer, in a real world application.
+
+It is best if you get the solution right. It is still okay if your solution was average, as long as you can reason about it. For any answer you come up with, you better be able to back it up with some valid facts.
 
  1. Clean Code: A Handbook of Agile Software Craftsmanship
  2. Clean Architecture: A CRAFTSMAN’S GUIDE TO SOFTWARE STRUCTURE AND DESIGN
@@ -124,5 +130,24 @@ TBD
  7. Head First Design Patterns
  8. Introduction to Algorithms
 
-## Job sites
-TBD
+## Job search sites
+
+Here are some sites I used to look for jobs.
+
+1. LinkedIn Jobs
+2. Seek.com, Seek.com.au, Seek.co.az
+3. Relocate.me
+4. GlassDoor jobs
+5. Indeed.com
+
+Also this list contains several AU companies that sponsor your visa.
+
+https://github.com/geshan/au-companies-providing-work-visa-sponsorship
+
+### Grow your network
+
+Whichever website you use, you have a far better chance getting an interview if you could get your CV referred through someone already working in that company.
+
+This person can be someone from your previous company, your alma mater, your relative or a complete stranger. Establish a professional relationship with the person first and then ask if they would refer your CV. Or they can tell you some tips to optimize your CV for that company. They can tell you about the company culture and interview style. They can even help you to find accommodation when you finally move there. 
+
+Having a good network is like having a great army behind you.
